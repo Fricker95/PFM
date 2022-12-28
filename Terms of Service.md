@@ -23,7 +23,7 @@
 
 #### Limited Liability
 
-* PFM Balance is provided on an "AS IS" basis and without any warranty. Your use of service is at your sole risk and Nicolas Fricker will not be liable for the loss of revenue, profits, data, or any other losses that occured during your use of serivce.
+* PFM Balance is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with PFM Balance or the use or other dealings in the Software.
 
 #### Non-professional Bookkeeping Software
 
