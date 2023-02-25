@@ -1,5 +1,5 @@
 ### PFM Balance: Privacy Policy
-###### Updated 28 Dec 2022
+###### Updated 25 Feb 2022
 
 #### Personal Information
 
@@ -15,7 +15,7 @@
 
 #### Contact us at
 
-* You can reach out to us via email: [nicolas.fricker@gmail.com](mailto:nicolas.fricker@gmail.com) for any questions or concerns in regard to our privacy policy.
+* You can reach out to us via email: [pfm.balance@gmail.com](mailto:pfm.balance@gmail.com) for any questions or concerns in regard to our privacy policy.
 
 
 #### Copyrights
