@@ -11,7 +11,7 @@
 
 #### Data Security
 
-* All app data is stored locally on device and securely synced to iCloud, a database provided by Apple. We do not have access to any of you data. 
+* All app data is stored locally on device and securely synced to iCloud, a database provided by Apple. We do not have access to any of your data. 
 
 #### Contact us at
 
